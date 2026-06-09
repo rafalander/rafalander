@@ -1,51 +1,144 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafael-lander/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+# Rafael Lander 💻
 
-###
+**`Desenvolvedor Backend Júnior`**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de desenvolvimento de software, trabalhando com APIs, bancos de dados e aplicações web. Tenho interesse em arquitetura de software, inteligência artificial, automações, Docker e desenvolvimento de soluções escaláveis. Além da tecnologia, sou apaixonado por games, animes e futebol.
 
-###
+<p align="left">
+    <a href="https://www.linkedin.com/in/rafael-lander/">
+        <img 
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Rafael%20Lander-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+        />
+    </a>
+     &nbsp;&nbsp;
+    <a href="https://www.instagram.com/rlander12/">
+        <img 
+            alt="Instagram"
+            title="Siga-me no Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-@rlander12-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
+        />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/rafalander">
+        <img 
+            alt="GitHub"
+            title="Acesse meu GitHub"
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-rafalander-%23181717?logo=github&logoColor=white&style=for-the-badge&labelColor=181717"
+        />
+    </a>
+</p>
 
-###
+---
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
+### 🤖 Linguagens e Tecnologias
 
-###
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+/>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafalander.rafalander&"  />
-</div>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" 
+/>
 
-###
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="jQuery" 
+    title="jQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="VSCode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+    <div align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=rafalander&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalander&layout=compact&custom_title=Tecnologias&langs_count=8&theme=react"
+      />
+    </div>
+</p>
