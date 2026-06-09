@@ -2,14 +2,14 @@
 
 **`Desenvolvedor Backend Júnior`**
 
-Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de desenvolvimento de software, trabalhando com APIs, bancos de dados e aplicações web. Tenho interesse em arquitetura de software, inteligência artificial, automações, Docker e desenvolvimento de soluções escaláveis. Além da tecnologia, sou apaixonado por games, animes e futebol.
+Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de desenvolvimento de software, trabalhando com APIs, bancos de dados e aplicações web. Tenho interesse em arquitetura de software, inteligência artificial, automações, Docker e desenvolvimento de soluções escaláveis.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rafael-lander/">
         <img 
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Rafael%20Lander-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
@@ -130,16 +130,19 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
 
 ### 📊 Estatísticas
 
-<p>
-    <div align="center">
-      <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=rafalander&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalander&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-      />
-    </div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafalander&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafalander&theme=github_dark"
+  />
+</p>
+
+### 📈 Atividade
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafalander&theme=github_dark"
+  />
 </p>
