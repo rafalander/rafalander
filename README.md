@@ -9,23 +9,15 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
         <img 
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Rafael%20Lander-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
      &nbsp;&nbsp;
-    <a href="https://www.instagram.com/rlander12/">
+    <a href="https://www.instagram.com/rlander12/"> 
         <img 
             alt="Instagram"
             title="Siga-me no Instagram"
             src="https://custom-icon-badges.demolab.com/badge/Instagram-@rlander12-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F"
-        />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/rafalander">
-        <img 
-            alt="GitHub"
-            title="Acesse meu GitHub"
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-rafalander-%23181717?logo=github&logoColor=white&style=for-the-badge&labelColor=181717"
         />
     </a>
 </p>
@@ -40,7 +32,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
 <img 
@@ -49,7 +41,16 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Symfony" 
+    title="Symfony"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" 
 />
 
 <img 
@@ -58,7 +59,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
 />
 
 <img 
@@ -67,7 +68,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
@@ -76,7 +77,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="jQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 
 <img 
@@ -85,7 +86,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <img 
@@ -94,7 +95,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <img 
@@ -103,7 +104,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"        
 />
 
 <img 
@@ -112,7 +113,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 <img 
@@ -121,7 +122,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
     title="VSCode"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
 <br/>
@@ -138,7 +139,7 @@ Desenvolvedor Backend com foco em PHP e Laravel. Atualmente atuo na área de des
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalander&layout=compact&custom_title=Tecnologias&langs_count=8&theme=react"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalander&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
       />
     </div>
 </p>
